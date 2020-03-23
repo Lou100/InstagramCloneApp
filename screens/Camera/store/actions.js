@@ -1,0 +1,4 @@
+export default {
+    CREATE_POST: "CREATE_POST",
+    ON_CREATE_POST_SUCCESS: "ON_CREATE_POST_SUCCESS"
+};

@@ -16,7 +16,7 @@ This is a cross-platform app that is very intuitive by helping staying connected
 
 Before considering downloading/cloning the code and running this app it's suggested that you download the latest version of Node.js and npm and install the latest version of react native global command line and maybe even Homebrew and Watchman depending if you’re a macOS user.
 
-This app uses the global configuration of React Native. To run this app on IOS you’ll need to download Xcode and open the file “insta_clone.xcworkspace” in Xcode then click the build button to run the app in your IOS simulator.
+This app uses the global configuration of React Native. To run this app on IOS you’ll need to download Xcode and open the file “insta_clone.xcworkspace” in Xcode then click the build button to run the app in your IOS simulator or physical device.
 
 To run this app on Android you’ll need to open the “android” folder inside Android Studio and run the app in the Android emulator or physical device.
 
